@@ -47,7 +47,7 @@ This is how it will look -
 <img width="253" height="49" alt="image" src="https://github.com/user-attachments/assets/6b365674-cfe7-4484-b825-1190c41e65f8" />
 
 
-Thank You for your time! I am currently learning and I will add more cool features to this bot in Future. 
+Thank You for your time! I am currently learning and I will add more cool features to this bot in Future. I have used little AI for this project, But I very well know meaning and outcome of each and every line of code. 
 Contact me:-
 Discord id - sierrraa30
 
